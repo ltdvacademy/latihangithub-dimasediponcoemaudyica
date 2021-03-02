@@ -3,3 +3,4 @@ Silahkan ketik nama kalian, jadi setelah kalian clone / update di IDE, kalian ke
 Nama : Poncoe
 Nama : Dimas
 Nama : Edi Junaedi
+Nama : Maudy
